@@ -1,5 +1,7 @@
 # fluent-plugin-signal
 
+[![Build Status](https://travis-ci.org/yanana/fluent-plugin-signal.svg?branch=master)](https://travis-ci.org/yanana/fluent-plugin-signal)
+
 A plugin for fluentd to notify another process using POSIX signals.
 
 ## Installation
